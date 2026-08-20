@@ -1,1 +1,1 @@
-# assignment_02_genome_exploration
+# RNA Seq Literature and Data Characterization 

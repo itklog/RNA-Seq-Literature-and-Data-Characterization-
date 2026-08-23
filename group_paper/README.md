@@ -13,7 +13,7 @@ NCBI GEO / BioProject Accession: GSE132415
 | Group Member Name | Assigned Accession Number | Condition (Control / Treatment) |
 | :--- | :--- | :--- |
 | **Estrevillo, Gedden** | `SRR9257062` | Heat Stress |
-| **Ansag, Eugene Kim** | `SRR9257062` | Heat Stress |
+| **Ansag, Eugene Kim** | `SRR9257065` | Recovery |
 | **Lisondra, Ray Gee** | `SRR9257063` | Heat Stress |
 | **Martinez, Jen Marie** | `SRR9257064` | Recovery |
 | **Ortega, Jerson Lloyd** | `SRR9257060` | Control |

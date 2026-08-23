@@ -13,7 +13,7 @@ NCBI GEO / BioProject Accession: GSE132415
 | Group Member Name | Assigned Accession Number | Condition (Control / Treatment) |
 | :--- | :--- | :--- |
 | **Estrevillo, Gedden** | `SRR9257062` | Heat Stress |
-| *[Member 2 Name]* | *[Accession Number]* | *[Condition]* |
+| **Ansag, Eugene Kim** | `SRR9257063` | Heat Stress |
 | *[Member 3 Name]* | *[Accession Number]* | *[Condition]* |
 
 ## 5. Short Summary of the Experimental Design

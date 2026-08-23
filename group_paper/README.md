@@ -14,7 +14,9 @@ NCBI GEO / BioProject Accession: GSE132415
 | :--- | :--- | :--- |
 | **Estrevillo, Gedden** | `SRR9257062` | Heat Stress |
 | **Ansag, Eugene Kim** | `SRR9257063` | Heat Stress |
-| *[Member 3 Name]* | *[Accession Number]* | *[Condition]* |
+| **Lisondra, Ray Gee** | *[Insert Accession]* | *[Insert Condition]* |
+| **Martinez, Jen Marie** | *[Insert Accession]* | *[Insert Condition]* |
+| **Ortega, Jerson Lloyd** | *[Insert Accession]* | *[Insert Condition]* |
 
 ## 5. Short Summary of the Experimental Design
 This study investigates how environmental stress impacts genome architecture and transposable element (TE) regulation in *Arabidopsis thaliana*. The researchers utilized high-throughput RNA sequencing (RNA-seq) alongside Hi-C analysis to compare genome-wide chromatin packing patterns and transcriptomic profiles between normal growth conditions and heat stress conditions. The primary objective was to determine whether heat-induced disruption of heterochromatic silencing correlates with large-scale global rearrangements of the three-dimensional (3D) nuclear architecture.

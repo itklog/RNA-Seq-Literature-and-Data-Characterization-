@@ -15,7 +15,7 @@ NCBI GEO / BioProject Accession: GSE132415
 | **Estrevillo, Gedden** | `SRR9257062` | Heat Stress |
 | **Ansag, Eugene Kim** | `SRR9257063` | Heat Stress |
 | **Lisondra, Ray Gee** | *[Insert Accession]* | *[Insert Condition]* |
-| **Martinez, Jen Marie** | *[Insert Accession]* | *[Insert Condition]* |
+| **Martinez, Jen Marie** | `SRR9257064` | *[Insert Condition]* |
 | **Ortega, Jerson Lloyd** | *[Insert Accession]* | *[Insert Condition]* |
 
 ## 5. Short Summary of the Experimental Design

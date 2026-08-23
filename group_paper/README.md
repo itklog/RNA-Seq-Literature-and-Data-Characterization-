@@ -12,7 +12,7 @@ NCBI GEO / BioProject Accession: GSE132415
 ## 4. Table Assigning RNA-Seq Runs to Group Members
 | Group Member Name | Assigned Accession Number | Condition (Control / Treatment) |
 | :--- | :--- | :--- |
-| **Estrevillo, Gedden** | `SRR9257062` | Control / Heat Stress |
+| **Estrevillo, Gedden** | `SRR9257062` | Heat Stress |
 | *[Member 2 Name]* | *[Accession Number]* | *[Condition]* |
 | *[Member 3 Name]* | *[Accession Number]* | *[Condition]* |
 

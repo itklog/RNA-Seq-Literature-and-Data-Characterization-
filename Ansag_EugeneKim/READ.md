@@ -5,7 +5,7 @@
 **Assigned RNA-seq Accession:** `SRR9257065`  
 **Assigned Sample:** `Recovery_Rep2`
 
-## 1. Study Information and Citation
+## Study Information and Citation
 ### Group Paper
 **Title:** *Heat stress triggers genome-wide release of transposable elements in Arabidopsis*
 
@@ -20,7 +20,7 @@ Ma, Q., Tharwat, M., Alshanbari, F. A., Khan, M. Z., Zhang, X., Zhang, Y., Hu, Y
 
 ---
 
-## 2. Assigned RNA-seq Sample
+## Assigned RNA-seq Sample
 
 | RNA-seq Information | Details |
 |---|---|
@@ -39,7 +39,7 @@ Ma, Q., Tharwat, M., Alshanbari, F. A., Khan, M. Z., Zhang, X., Zhang, Y., Hu, Y
 
 ---
 
-## 3. Biological Representation of the Sample
+## Biological Representation of the Sample
 
 The assigned sample, `Recovery_Rep2`, represents *Arabidopsis thaliana* Col-0 seedlings collected during the recovery phase following heat-stress exposure. Therefore, the sample reflects the transcriptional state of the seedlings after heat treatment rather than the immediate response during acute heat exposure.
 
@@ -48,7 +48,7 @@ The recovery sample can provide information about gene-expression patterns that 
 
 ---
 
-## 4. Galaxy and RNA-seq Data Documentation
+## Galaxy and RNA-seq Data Documentation
 
 ### **Figure 1. Galaxy History**
 
@@ -94,7 +94,7 @@ Levels result indicated relatively high duplication, with approximately
 adapter-related quality concerns in the raw RNA-seq data that should be
 considered during subsequent quality-control and downstream processing.
 
-## 5. Conclusion
+## Conclusion
 
 The examination of the `SRR9257065` (`Recovery_Rep2`) RNA-seq dataset
 provided an understanding of how raw sequencing data can be characterized
@@ -112,7 +112,7 @@ establish how raw sequencing data are connected to the biological question
 of understanding transcriptional responses associated with heat stress and
 recovery.
 
-## 6. Reference
+## Reference
 
 Ma, Q., Tharwat, M., Alshanbari, F. A., Khan, M. Z., Zhang, X., Zhang, Y.,
 Hu, Y., Li, X., & Hu, Y. (2020). *Heat stress triggers genome-wide release

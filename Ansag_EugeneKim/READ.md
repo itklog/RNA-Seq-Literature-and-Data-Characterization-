@@ -7,7 +7,7 @@
 
 ## Study Information and Citation
 ### Group Paper
-**Title:** *Heat stress triggers genome-wide release of transposable elements in Arabidopsis*
+**Title:** Heat stress-induced transposon activation correlates with 3D chromatin organization rearrangement in Arabidopsis
 
 **Full Citation:**  
 Ma, Q., Tharwat, M., Alshanbari, F. A., Khan, M. Z., Zhang, X., Zhang, Y., Hu, Y., Li, X., & Hu, Y. (2020). *Heat stress triggers genome-wide release of transposable elements in Arabidopsis*. *Plant Physiology*.

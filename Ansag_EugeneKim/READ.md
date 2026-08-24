@@ -73,7 +73,7 @@ FastQC was used to examine the basic characteristics and quality of the
 raw paired-end RNA-seq reads. The results include important sequencing
 metrics such as the number of sequences, read length, and GC content.
 
-<img width="2560" height="1600" alt="ad07b12a-d6bc-4234-b353-7dafd3942b58-1_all_6595" src="https://github.com/user-attachments/assets/c87792b2-87b9-41cf-bc43-8439d5265309" />
+<img width="2560" height="1600" alt="1000040811" src="https://github.com/user-attachments/assets/770b7fff-f9c5-4edd-bcad-fe75990f1674" />
 
 
 **Figure 3.** FastQC raw-data results for the `Recovery_Rep2` RNA-seq
@@ -118,4 +118,4 @@ Ma, Q., Tharwat, M., Alshanbari, F. A., Khan, M. Z., Zhang, X., Zhang, Y.,
 Hu, Y., Li, X., & Hu, Y. (2020). *Heat stress triggers genome-wide release
 of transposable elements in Arabidopsis*. *Plant Physiology*.
 
-**DOI:** 10.1093/plphys/kiaf110
+**DOI:** 10.1038/s4167-020-15809-5

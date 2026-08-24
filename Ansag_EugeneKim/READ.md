@@ -12,7 +12,7 @@
 **Full Citation:**  
 Ma, Q., Tharwat, M., Alshanbari, F. A., Khan, M. Z., Zhang, X., Zhang, Y., Hu, Y., Li, X., & Hu, Y. (2020). *Heat stress triggers genome-wide release of transposable elements in Arabidopsis*. *Plant Physiology*.
 
-**DOI:** 10.1038/s4167-020-15809-5
+**DOI:** https://doi.org/10.1038/s41467-020-15809-5
 
 **Study Accession / BioProject:** SRX6027533
 
@@ -111,11 +111,3 @@ public SRA accession through FASTQ inspection and FastQC analysis helped
 establish how raw sequencing data are connected to the biological question
 of understanding transcriptional responses associated with heat stress and
 recovery.
-
-## Reference
-
-Ma, Q., Tharwat, M., Alshanbari, F. A., Khan, M. Z., Zhang, X., Zhang, Y.,
-Hu, Y., Li, X., & Hu, Y. (2020). *Heat stress triggers genome-wide release
-of transposable elements in Arabidopsis*. *Plant Physiology*.
-
-**DOI:** 10.1038/s4167-020-15809-5

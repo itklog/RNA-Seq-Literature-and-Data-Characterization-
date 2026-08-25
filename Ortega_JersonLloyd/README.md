@@ -25,3 +25,8 @@
 | GC Content | `46%` |
 | Approximate File Size | 3.4 GB |
 
+# # 3. FastQC Analysis & Screenshots
+Below is the Galaxy panel showing the active history containing the imported paired-end dataset collection.
+
+! [Galaxy History] <img width="1080" height="2066" alt="20392" src="https://github.com/user-attachments/assets/3b0849d4-9c38-4093-aa1d-0c20ad6bf7d8" />
+

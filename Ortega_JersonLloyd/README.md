@@ -1,6 +1,9 @@
 # # RNA-Seq Data Characterization Report
+
 **• Student Name: Jerson Lloyd T. Ortega**
+
 **• Group Number: Group 1 (Heat Stress)**
+
 **• Assigned Sample: RNA-Seq-Col-Control-Rep1**
 
 
@@ -42,4 +45,10 @@
 
 **Figure 3:** Per Base Sequence Quality reads.
 
+# # RNA-seq Interpretation
+ 
+ The primary goal of this study is to investigate how acute heat stress and recovery affect gene expression and transposable element dynamics in Arabidopsis thaliana seedlings, enabling a genome-wide evaluation of stress-responsive transcriptional dynamics. While genomic DNA represents the static inheritance blueprint of an organism, RNA molecules reflect active transcriptional responses; thus, RNA-seq specifically measures dynamic, functional gene activity. The sample SRX6027528 (RNA-Seq-Col-Control-Rep1) serves as a biological replicate, which is an independent biological sample treated under identical control conditions. Biological replicates are essential for capturing natural biological variance, ensuring that observed expression changes are statistically significant rather than random noise. 
 
+# #Conclusion
+
+The RNA-seq dataset for sample SRX6027528 (RNA-Seq-Col-Control-Rep1) demonstrated strong overall sequencing metrics, yielding 33,115,474 paired-end reads with high per-base quality scores and no detectable adapter contamination. The observed flags in sequence content and duplication levels align with expected library preparation artifacts rather than technical failure. Consequently, the data are high-quality and fully suitable for downstream bioinformatics workflows. Proceeding to transcript alignment, gene-level quantification, library normalization, and differential expression analysis will allow for robust comparison against heat-treated and recovery conditions. 

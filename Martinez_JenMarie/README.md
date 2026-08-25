@@ -2,6 +2,7 @@
 
 **Name:** Martinez, Jen Marie A.
 **Group:** Group I
+**Assigned Sample:** Heat Stress
 **Research Article:** *Heat stress-induced transposon activation correlates with 3D chromatin organization rearrangement in Arabidopsis*
 
 ## Citation

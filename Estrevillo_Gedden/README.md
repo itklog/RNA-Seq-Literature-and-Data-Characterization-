@@ -11,7 +11,7 @@
   * Title: Heat stress-induced transposon activation correlates with 3D chromatin organization rearrangement in Arabidopsis
   * Citation: Sun, L., Jing, Y., Liu, X., Li, Q., Xue, Z., Cheng, Z., Wang, D., He, H., Qian, W. (2020). Heat stress-induced transposon activation correlates with 3D chromatin organization rearrangement in Arabidopsis. *Nat Commun*, 11(1), 1886. https://doi.org/10.1038/s41467-020-15809-5
     
-* **Assigned RNA-seq accession number:** SRX6027530
+* **Assigned RNA-seq accession number:** `SRX6027530`
   
 * **Control or treatment condition:** Heat Stress (RNA-Seq-Col-Heat-Rep 1)
   

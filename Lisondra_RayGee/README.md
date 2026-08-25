@@ -3,7 +3,6 @@
 * **Student Name:** Ray Gee J. Lisondra
 * **Group Number:** Group 1 (Heat Stress)
 * **Assigned Sample:** Heat Stress Replicate 2 (`Heat_Rep2`)
-* **DOI:** https://doi.org/10.1038/s41467-020-15809-5
 ---
 
 ## 1. Study Information & Citation
@@ -14,7 +13,7 @@
 * **Assigned RNA-seq Accession:** `SRR9257063`
 * **Experimental Condition:** Acute Heat Stress (Treatment)
 * **Biological Representation:** This sample represents whole *Arabidopsis thaliana* (Col-0 ecotype) seedlings exposed to acute heat stress (Replicate 2). Biologically, it captures the genome-wide transcriptional responses, heat-shock gene activation, and transposable element expression dynamics under elevated temperature conditions compared to thermoneutral control growth.
-
+* **DOI:** https://doi.org/10.1038/s41467-020-15809-5
 ---
 
 ## 2. Dataset Characteristics & Summary

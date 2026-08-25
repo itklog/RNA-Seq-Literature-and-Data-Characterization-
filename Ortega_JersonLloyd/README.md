@@ -7,7 +7,7 @@
 **• Assigned Sample: RNA-Seq-Col-Control-Rep1**
 
 
-#  1. Study Information & Citation
+#  Study Information & Citation
 
 **Paper Title:** Heat stress triggers genome‑wide release of transposable elements in Arabidopsis
 
@@ -17,7 +17,7 @@
 
 **Biological Representation:** This sample represents whole Arabidopsis thaliana (Col-0 ecotype) seedlings exposed to acute heat stress (Replicate 2). Biologically, it captures the genome-wide transcriptional responses, heat-shock gene activation, and transposable element expression dynamics under elevated temperature conditions compared to thermoneutral control growth.
 
-# 2. Dataset Characteristics and Summary
+#  Dataset Characteristics and Summary
 | RNA - Seq Metric | Value / Observation |
 | :--- | :--- |
 | SRA Run Accession | `SRR9257060` |
@@ -31,7 +31,7 @@
 **Summary of FastQC Results:** Passed basic statistics and quality scores, but failures were observed for per base sequence content and sequence duplication levels.
 
 
-# 3. Screenshots and Visualizations
+#  Screenshots and Visualizations
 
 <img width="1080" height="2066" alt="20392" src="https://github.com/user-attachments/assets/7f31d645-1002-40df-96cd-effe2488dffc" />
 
@@ -45,10 +45,10 @@
 
 **Figure 3:** Per Base Sequence Quality reads.
 
-# 4. RNA-seq Interpretation
+# RNA-seq Interpretation
  
  The primary goal of this study is to investigate how acute heat stress and recovery affect gene expression and transposable element dynamics in Arabidopsis thaliana seedlings, enabling a genome-wide evaluation of stress-responsive transcriptional dynamics. While genomic DNA represents the static inheritance blueprint of an organism, RNA molecules reflect active transcriptional responses; thus, RNA-seq specifically measures dynamic, functional gene activity. The sample SRX6027528 (RNA-Seq-Col-Control-Rep1) serves as a biological replicate, which is an independent biological sample treated under identical control conditions. Biological replicates are essential for capturing natural biological variance, ensuring that observed expression changes are statistically significant rather than random noise. 
 
-# 5. Conclusion
+# Conclusion
 
 The RNA-seq dataset for sample SRX6027528 (RNA-Seq-Col-Control-Rep1) demonstrated strong overall sequencing metrics, yielding 33,115,474 paired-end reads with high per-base quality scores and no detectable adapter contamination. The observed flags in sequence content and duplication levels align with expected library preparation artifacts rather than technical failure. Consequently, the data are high-quality and fully suitable for downstream bioinformatics workflows. Proceeding to transcript alignment, gene-level quantification, library normalization, and differential expression analysis will allow for robust comparison against heat-treated and recovery conditions. 

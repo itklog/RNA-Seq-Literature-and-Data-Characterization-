@@ -93,9 +93,39 @@ Levels result indicated relatively high duplication, with approximately
 adapter-related quality concerns in the raw RNA-seq data that should be
 considered during subsequent quality-control and downstream processing.
 
-## Conclusion
+## Interpretation Questions 
 
-The examination of the `SRR9257065` (`Recovery_Rep2`) RNA-seq dataset
+1. What biological question was the original RNA-seq study trying to answer?
+- The study investigated how acute heat stress and subsequent recovery alter genome-wide gene expression and transposable     element (TE) activity in Arabidopsis thaliana seedlings, providing insight into transcriptional responses to thermal stress.
+2. Why did the authors use RNA-seq instead of only examining the genome?
+- RNA-seq was used to characterize the transcriptome, allowing the researchers to measure actively expressed genes and TEs. In contrast, genomic DNA primarily represents the organism's genetic potential rather than its condition-specific transcriptional activity.
+3. What is the difference between genomic DNA and the RNA molecules measured by RNA-seq?
+- Genomic DNA is the relatively stable hereditary genetic material, whereas RNA molecules are transient transcripts generated through gene expression. RNA-seq therefore provides a molecular profile of active transcription under specific physiological conditions.
+4. What is a biological replicate and why is it important?
+- A biological replicate is an independently derived sample subjected to the same experimental condition. Replicates capture natural biological variability, improve statistical power, and increase the reliability of differential gene-expression analysis.
+5. What is the difference between single-end and paired-end sequencing?
+- Single-end sequencing determines the sequence from one end of a nucleic-acid fragment, whereas paired-end sequencing sequences both ends. Paired-end reads generally provide greater mapping confidence and structural information, particularly across repetitive or complex genomic regions.
+6. What is a FASTQ file?
+- A FASTQ file is a text-based format containing raw nucleotide sequences and their corresponding per-base Phred quality scores. It serves as a primary input for RNA-seq quality control and downstream computational analysis.
+7. What information does FastQC provide?
+- FastQC evaluates sequencing quality using metrics including per-base sequence quality, GC-content distribution, adapter contamination, sequence duplication, and nucleotide composition bias. These metrics help identify technical artifacts before downstream analysis.
+8. What does a high per-base quality score indicate?
+- A high Phred quality score indicates a low probability of base-calling error, reflecting accurate sequencing and increasing confidence in subsequent read alignment and transcript quantification.
+9. Why can adapter contamination be a problem?
+- Adapter contamination occurs when artificial library-preparation sequences remain within sequencing reads. These sequences can interfere with read alignment and transcript quantification, potentially producing spurious mappings and biased expression estimates; therefore, adapter trimming is required.
+10. Were all RNA-seq samples in your group similar in quality? Explain.
+- The samples were generally comparable in overall sequencing quality, with all exhibiting 150-bp reads, approximately 45–46% GC content, and acceptable per-base quality scores. However, variation was observed in adapter contamination, nucleotide-composition bias, and sequence duplication, indicating differences in library-level quality.
+11. Did any sample show a possible quality problem? What was it?
+- Yes. SRX6027532 (Recovery Rep1) exhibited the most notable QC concerns, including adapter contamination, overrepresented sequences, nucleotide-composition bias, and sequence duplication. SRX6027530 also showed adapter/primer bias, whereas SRX6027531 and SRX6027528 exhibited sequence-composition and duplication-related issues.
+12. What additional steps would be needed before the researchers could compare gene expression between control and treatment samples?
+- The datasets should undergo adapter/primer trimming, quality filtering, and removal of low-quality or contaminant reads. The cleaned reads should then be aligned to the reference genome and subjected to transcript quantification and normalization. Finally, biological replicates should be incorporated into appropriate statistical differential-expression analyses to reliably compare control and heat-stressed samples.
+
+
+
+
+
+## Conclusion
+  The examination of the `SRR9257065` (`Recovery_Rep2`) RNA-seq dataset
 provided an understanding of how raw sequencing data can be characterized
 in the context of a heat-stress study in *Arabidopsis thaliana*. The dataset
 contained 26,237,461 paired-end reads of 150 bp with approximately 46% GC

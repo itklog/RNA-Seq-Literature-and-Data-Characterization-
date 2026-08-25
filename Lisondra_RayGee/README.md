@@ -3,7 +3,7 @@
 * **Student Name:** Ray Gee J. Lisondra
 * **Group Number:** Group 1 (Heat Stress)
 * **Assigned Sample:** Heat Stress Replicate 2 (`Heat_Rep2`)
-
+* **DOI:** https://doi.org/10.1038/s41467-020-15809-5
 ---
 
 ## 1. Study Information & Citation

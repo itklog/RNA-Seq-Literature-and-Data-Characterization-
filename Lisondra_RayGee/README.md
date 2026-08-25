@@ -33,28 +33,28 @@
 
 ## 3. FastQC Analysis & Screenshots
 
-### Screenshot 1: Galaxy Workspace & History Overview
+### Figure 1: Galaxy Workspace & History Overview
 Below is the Galaxy panel showing the active history containing the imported paired-end dataset collection.
 
 ![Galaxy History](screenshots/galaxy_history.png)
 
 ---
 
-### Screenshot 2: Four-Line FASTQ Structure
+### Figure 2: Four-Line FASTQ Structure
 Below is the four-line FASTQ preview of the reverse read (`Heat_Rep2_R2`), showing the sequence ID, raw base calls, separator, and ASCII quality scores.
 
 ![FASTQ Structure](screenshots/fastq_preview.png)
 
 ---
 
-### Screenshot 3: FastQC Basic Statistics
+### Figure 3: FastQC Basic Statistics
 Below is the FastQC Basic Statistics table generated for the forward read (`SRR9257063_1`).
 
 ![FastQC Basic Statistics](screenshots/fastqc_basic_statistics_R1.png)
 
 ---
 
-### Screenshot 4: FastQC Per Base Sequence Quality
+### Figure 4: FastQC Per Base Sequence Quality
 Below is the Phred quality score plot across read positions.
 
 ![FastQC Per Base Quality](screenshots/fastqc_per_base_quality_R1.png)
@@ -63,7 +63,7 @@ Below is the Phred quality score plot across read positions.
 
 ---
 
-### Screenshot 5: FastQC Per Base Sequence Content (Quality Observation)
+### Figure 5: FastQC Per Base Sequence Content (Quality Observation)
 Below is the sequence content plot highlighting a positional bias at the start of the reads.
 
 ![FastQC Per Base Sequence Content](screenshots/fastqc_per_base_sequence_content_R1.png)
@@ -79,4 +79,4 @@ Below is the sequence content plot highlighting a positional bias at the start o
 
 ## 5. Conclusion
 
-The raw sequencing dataset for `SRR9257063` (Heat Stress Replicate 2) was successfully downloaded, imported, and characterized within Galaxy. Quality control evaluation via FastQC demonstrated high overall base quality across reads, with Phred scores consistently remaining in the acceptable range. Observed warnings, such as 5' sequence content bias, represent standard technical artifacts inherent to RNA-seq library preparation rather than biological degradation. Overall, the data quality is sufficient and ready for downstream alignment, quantification, and differential expression analysis.
+The raw sequencing dataset for `SRR9257063` (Heat Stress Replicate 2) was successfully processed and evaluated in Galaxy. FastQC confirmed high overall read quality, with Phred scores remaining within acceptable thresholds. Minor warnings, including 5' sequence content bias, reflect typical RNA-seq library preparation artifacts rather than sample degradation. Consequently, the dataset meets quality standards for downstream alignment, quantification, and differential expression analysis.

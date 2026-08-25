@@ -41,7 +41,7 @@
 
 **Figure 2:** FastQC Basic Statistics - FastQC summary table displaying basic metrics including total sequences (33,578,171), length (150 bp), and GC content (45%).
 
-<img width="1080" height="1920" alt="20407" src="https://github.com/user-attachments/assets/90402e00-9d23-4768-b2fe-ea7cc76d61b9" />
+<img width="1080" height="574" alt="20408" src="https://github.com/user-attachments/assets/3265a435-3844-4097-a410-03e2633a4605" />
 
 **Figure 3:** Per Base Sequence Quality reads.
 

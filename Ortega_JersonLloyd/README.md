@@ -31,12 +31,15 @@
 # # 3. Screenshots and Visualizations
 
 <img width="1080" height="2066" alt="20392" src="https://github.com/user-attachments/assets/7f31d645-1002-40df-96cd-effe2488dffc" />
+
 **Figure 1:** Galaxy History - Galaxy history panel showing the imported RNA-seq dataset and completed FastQC outputs.
 
 <img width="1080" height="560" alt="20401" src="https://github.com/user-attachments/assets/bb57c30f-c55b-4624-b026-183e7a9a194f" />
+
 **Figure 2:** FastQC Basic Statistics - FastQC summary table displaying basic metrics including total sequences (33,578,171), length (150 bp), and GC content (45%).
 
 <img width="1080" height="1920" alt="20407" src="https://github.com/user-attachments/assets/90402e00-9d23-4768-b2fe-ea7cc76d61b9" />
+
 **Figure 3:** Per Base Sequence Quality reads.
 
 

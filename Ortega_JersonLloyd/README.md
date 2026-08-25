@@ -15,6 +15,13 @@
 **Biological Representation:** This sample represents whole Arabidopsis thaliana (Col-0 ecotype) seedlings exposed to acute heat stress (Replicate 2). Biologically, it captures the genome-wide transcriptional responses, heat-shock gene activation, and transposable element expression dynamics under elevated temperature conditions compared to thermoneutral control growth.
 
 # # Dataset Characteristics and Summary
-| Sample | Condition | BioSample | SRA Accession | File Size | Library Type |
-|---|---|---|---|---|---|
-| RNA-Seq-Col-Control-Rep1 | Control (Treatment) | SAMN11997387 | SRR9257060 | ~3.4 GB | Paired-End |
+| RNA - Seq Metric | Value / Observation |
+| :--- | :--- |
+| SRA Run Accession | `SRR9257060` |
+| BioSample Accession | `SAMN11997387` |
+| Sequencing Layout | Paired - End |
+| Number of Reads / Sequences | `33,115,474` |
+| Read Length | 150 bp |
+| GC Content | `46%` |
+| Approximate File Size | 3.4 GB |
+

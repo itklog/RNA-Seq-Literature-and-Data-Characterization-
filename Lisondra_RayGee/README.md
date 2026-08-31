@@ -72,9 +72,11 @@ Below is the sequence content plot highlighting a positional bias at the start o
 ---
 
 ## 4. Interpretation Questions
+<div align="justify">
+  
 The original RNA-seq study aimed to determine how acute heat stress and recovery influence gene expression and transposable element activity in *Arabidopsis thaliana* seedlings to explore stress-induced transcriptional changes at a genome-wide scale. Unlike genomic DNA—which is the static, permanent genetic blueprint—RNA-seq measures temporary RNA transcripts to capture real-time, functional gene activity rather than just static genetic potential. To ensure reliable results, the experimental design utilized biological replicates (independent samples from the same condition) to account for natural biological variation and strengthen statistical confidence in differential expression analysis. Sequencing was performed to output standard text-based FASTQ files containing raw sequencing reads along with per-base quality scores, where high quality scores indicate low error probability and high read reliability. Depending on design, sequencing can be single-end (reading one end of a DNA fragment) or paired-end (reading both ends), with paired-end offering superior alignment accuracy and structural information in complex genomes. Sample quality was evaluated using FastQC to summarize metrics such as per-base quality, GC content, adapter contamination, sequence duplication, and composition bias. While all group samples demonstrated similar overall quality with 150-bp reads, ~45–46% GC content, and acceptable base quality, noticeable quality variations emerged: SRX6027532 (Recovery Rep1) exhibited the most severe QC concerns—including adapter contamination, overrepresented sequences, sequence-content bias, and high duplication—while SRX6027530 showed adapter/primer bias, and SRX6027531 and SRX6027528 displayed sequence-content and duplication issues. Because unaddressed adapter contamination causes misalignment and biased quantification, the dataset requires preprocessing (adapter/primer trimming, quality filtering, and removal of contaminants) prior to comparing expression levels. Finally, to compare gene expression between control and treatment samples, these cleaned reads must be aligned to the reference genome, quantified, normalized, and analyzed using appropriate statistical methods across biological replicates.
 
-
+</div>
 ---
 
 ## 5. Conclusion
